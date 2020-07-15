@@ -129,3 +129,5 @@ public class Main {
         }
     }
 }
+
+//https://stackoverflow.com/questions/22296312/convert-certificate-from-pem-into-jks/22298627
